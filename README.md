@@ -35,6 +35,4 @@ streamlit run app.py
 IMDb Top 250 Movies dataset (CSV).
 
 ## Author
-Your Name
-
-⭐ If you like this project, give it a star!
+DUVVURU DEEPAK REDDY
